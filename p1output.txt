@@ -1,1 +1,7 @@
-
+gcc -g p1original.c
+./a.out
+Enter the numerator[First Number]: 5
+Enter the denominator[First Number]: 3
+Enter the numerator[Second Number]: 8
+Enter the denominator[Second Number]: 4
+After addition we get: 5/3 +8/4 = 11/3
